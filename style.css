@@ -4,6 +4,9 @@ body {
 .starter-template {
   padding: 40px 15px;
   text-align: center;
-
 }
+@media screen  and (max width 980px)
 
+@media screen and (max width: 768px)
+
+@media screen and (max width: 640px)
