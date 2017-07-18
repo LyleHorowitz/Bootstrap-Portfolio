@@ -5,8 +5,29 @@ body {
   padding: 40px 15px;
   text-align: center;
 }
-@media screen  and (max width 980px)
 
-@media screen and (max width: 768px)
+@media screen and (max-width: 980px) {
+.masthead {
+position: static;
+}
+.sidebar {
+max-width: 100%;
+}
 
-@media screen and (max width: 640px)
+@media screen and (max-width: 768px) {
+.masthead {
+position: static;
+}
+.sidebar {
+max-width: 100%;
+}
+
+@media screen and (max-width: 640px) {
+.masthead {
+position: static;
+}
+.sidebar {
+max-width: 100%;
+}
+
+}
